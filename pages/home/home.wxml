@@ -1,0 +1,11 @@
+<view class="container">
+ 
+  <view class="homeInfo">
+    <text class="home-ip">home-ip:</text>
+    <text class="user-motto">{{motto}}</text> \n\r
+     
+  <button bindtap="clickMe">GET</button>
+  
+  </view>
+ 
+</view>

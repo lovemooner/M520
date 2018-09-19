@@ -1,0 +1,33 @@
+{
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+     
+      {
+        "selectedIconPath": "images/11.png",
+        "iconPath": "images/33.png",
+        "pagePath": "pages/home/home",
+        "text": "开心测试"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "iconPath": "images/22.png",
+        "text": "日志"
+      }
+    ]
+  },
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/home/home"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}
